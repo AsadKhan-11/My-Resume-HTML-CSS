@@ -1,0 +1,67 @@
+body {
+  margin: 20px 40px;
+  font-family: sans-serif;
+}
+.container {
+  margin-bottom: 50px;
+}
+
+.person-info-container {
+  display: flex;
+  gap: 50px;
+  margin-bottom: 40px;
+}
+
+.person-info {
+  color: black;
+}
+
+.person-txt {
+  font-size: 18px;
+}
+
+.main-head {
+  font-size: 64px;
+  margin: 0 0 20px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.sec-head {
+  color: rgb(250, 171, 48);
+  font-size: 32px;
+}
+
+.khan {
+  color: rgb(255, 171, 48);
+}
+
+.person-img {
+  border-radius: 50%;
+  height: 180px;
+  width: 180px;
+  border: 5px solid rgb(255, 171, 48);
+}
+
+/*************EXPERIENCE********************/
+.person-exp {
+  font-size: 18px;
+  padding-left: 20px;
+}
+
+.person-exp-txt {
+  margin-bottom: 20px;
+}
+/**************EDUCATION********************/
+
+.ed-list {
+  list-style: none;
+  padding: 0;
+}
+.ed-txt {
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+.school {
+  font-weight: 600;
+}
